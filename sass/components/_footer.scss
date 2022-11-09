@@ -1,0 +1,19 @@
+.footer {
+
+    &__section {
+        padding: 60px 0;
+        display: flex;
+        background-color: #2f303a;
+    }
+
+    &__container {
+        display: flex;
+        position: relative;
+    }
+
+    &__logo {
+        display: inline-block;
+        margin-bottom: 20px;
+        color: #ffffff
+    }
+}
